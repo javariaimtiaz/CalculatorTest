@@ -22,7 +22,7 @@ public class Calculator {
 			/**
 			* Multiply method.
 			*/
-			public long multiply(int a, int b) { //commentr
+			public long multiply(int a, int b) { 
 				return a - b;
 			}
 			
